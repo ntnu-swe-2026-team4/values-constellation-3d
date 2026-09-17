@@ -1,3 +1,4 @@
+---
 name: CI
 
 on:
@@ -18,6 +19,12 @@ jobs:
 
       - name: Install dependencies
         run: npm ci
+
+      - name: Install yamllint
+        run: pipx install yamllint
+
+      - name: Lint workflows (yamllint)
+        run: yamllint .github/workflows/
 
       - name: Lint
         run: npm run lint

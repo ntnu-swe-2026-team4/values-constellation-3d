@@ -1,0 +1,8 @@
+# yamllint 設定 — 針對 GitHub Actions workflows
+# `on:` 是 YAML 1.1 的布林關鍵字、workflows 慣例不寫文件開頭，故關閉這兩類噪音
+extends: default
+
+rules:
+  line-length: disable
+  truthy:
+    check-keys: false
