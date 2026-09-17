@@ -10,12 +10,12 @@
 
 ![3D 立體圖與分群](docs/screenshots/04-clusters-3d.png)
 
-| 開始畫面 | 即時漂移（答題中） |
-|---|---|
-| ![開始畫面](docs/screenshots/01-setup.png) | ![即時漂移](docs/screenshots/02-3d-drift.png) |
-| **軌跡視覺化** | **二維正視圖（笛卡爾座標）** |
-| ![軌跡](docs/screenshots/03-trajectories.png) | ![二維正視圖](docs/screenshots/06-2d-view.png) |
-| **一維量表** | **各軸點分布** |
+| 開始畫面                                      | 即時漂移（答題中）                                   |
+| --------------------------------------------- | ---------------------------------------------------- |
+| ![開始畫面](docs/screenshots/01-setup.png)    | ![即時漂移](docs/screenshots/02-3d-drift.png)        |
+| **軌跡視覺化**                                | **二維正視圖（笛卡爾座標）**                         |
+| ![軌跡](docs/screenshots/03-trajectories.png) | ![二維正視圖](docs/screenshots/06-2d-view.png)       |
+| **一維量表**                                  | **各軸點分布**                                       |
 | ![一維量表](docs/screenshots/07-1d-scale.png) | ![各軸點分布](docs/screenshots/05-distributions.png) |
 
 ## 功能
