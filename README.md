@@ -2,7 +2,10 @@
 
 以 8values 四軸政治立場光譜為基礎的**多人在 3D 空間中的即時漂移與 K-means 分群**視覺化。
 
-![stack](https://img.shields.io/badge/React_18-Vite_6-61dafb) ![stack](https://img.shields.io/badge/Three.js-r170-049cf4)
+[![stack](https://img.shields.io/badge/React_18-Vite_6-61dafb)](https://vite.dev) ![stack](https://img.shields.io/badge/Three.js-r170-049cf4)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-GitHub_Pages-e0a83c)](https://ntnu-swe-2026-team4.github.io/values-constellation-3d/)
+
+> **線上版**：<https://ntnu-swe-2026-team4.github.io/values-constellation-3d/>（push 到 main 自動佈署）
 
 ## 畫面預覽
 
